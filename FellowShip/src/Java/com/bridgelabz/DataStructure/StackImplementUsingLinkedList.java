@@ -1,5 +1,13 @@
 package com.bridgelabz.DataStructure;
-
+/******************************************************************************
+ *  Purpose: Program is written for Stack Implementation Using LinkedList  ( Reusability of Code ) .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   21-12-2019
+ *
+ ******************************************************************************/
 import com.bridgelabz.DataStructure.Stack;
 public class StackImplementUsingLinkedList<T> {
 	LinkedList<T> stack = new LinkedList<T>();
