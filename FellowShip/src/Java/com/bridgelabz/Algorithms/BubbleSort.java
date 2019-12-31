@@ -3,9 +3,9 @@ package com.bridgelabz.Algorithms;
  *  Purpose: Program is written for Bubble Sort .
  *  		 
  *
- *  @author  Manduri Lavanya<>
+ *  @author  Manduri Lavanya<lavanya.manduri@gmial.com>
  *  @version 1.0
- *  @since   17-12-2020
+ *  @since   17-12-2019
  *
  ******************************************************************************/
 import com.bridgelabz.Utility.Utility;
