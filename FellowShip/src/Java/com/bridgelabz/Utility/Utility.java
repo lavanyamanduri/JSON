@@ -4,9 +4,9 @@
     *  Purpose: Program is written for Reusability of Code .
     *  		 
     *
-    *  @author  Manduri Lavanya
+    *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
     *  @version 1.0
-    *  @since   30-12-2020
+    *  @since   19-12-2019
     *
     ******************************************************************************/
 	
