@@ -1,5 +1,13 @@
 package com.bridgelabz.DataStructuresPrograms;
-
+/******************************************************************************
+ *  Purpose: Program is written for Ordered List .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   22-12-2019
+ *
+ ******************************************************************************/
 import java.io.IOException;
 import java.util.Scanner;
 import com.bridgelabz.Utility.*;
@@ -12,7 +20,7 @@ public class OrderedList {
 
 		try {
 			strArr = (utility.readFile(
-					"C:\\Users\\Hello\\Desktop\\input.txt")
+					"C:\\Users\\Hello\\Desktop\\OrderedList.txt")
 					.split(","));
 
 		} catch (IOException e) {
@@ -45,7 +53,7 @@ public class OrderedList {
 		String str = list.returnListInString();
 		try {
 			utility.writeFile(
-					"C:\\Users\\Hello\\Desktop\\output.txt",
+					"C:\\Users\\Hello\\Desktop\\OrderedList.txt",
 					str);
 		} catch (IOException e1) {
 			e1.printStackTrace();
