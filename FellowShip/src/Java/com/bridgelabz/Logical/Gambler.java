@@ -5,13 +5,14 @@ package com.bridgelabz.Logical;
  *
  *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
  *  @version 1.0
- *  @since   13-12-2019
+ *  @since   13-12-2020
  *
  ******************************************************************************/
 import com.bridgelabz.Utility.Utility;
-public class Gambler {
-	public static void main(String[] args) {
 
+public class Gambler {
+	
+    public static void main(String[] args) {
 
 	System.out.println("enter stake and goal");
 	int stake=Utility.readInt();
