@@ -3,7 +3,7 @@ package com.bridgelabz.Logical;
  *  Purpose: Program is written for Coupon Number .
  *  		 
  *
- *  @author  Manduri Lavanya<>
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
  *  @version 1.0
  *  @since   13-12-2019
  *
