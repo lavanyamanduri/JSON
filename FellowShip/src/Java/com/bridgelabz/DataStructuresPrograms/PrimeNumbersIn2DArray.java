@@ -1,4 +1,13 @@
 package com.bridgelabz.DataStructuresPrograms;
+/******************************************************************************
+ *  Purpose: Program is written for Prime Numbers In 2D Array .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   22-12-2019
+ *
+ ******************************************************************************/
 import com.bridgelabz.Utility.*;
 public class PrimeNumbersIn2DArray {
 	public static void main(String[] args) {
