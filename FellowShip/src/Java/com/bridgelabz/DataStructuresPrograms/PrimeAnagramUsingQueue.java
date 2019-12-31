@@ -1,4 +1,13 @@
 package com.bridgelabz.DataStructuresPrograms;
+/******************************************************************************
+ *  Purpose: Program is written for Prime and Anagram Using Queue .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   23-12-2019
+ *
+ ******************************************************************************/
 import com.bridgelabz.Utility.*;
 import com.bridgelabz.DataStructure.*;
 public class PrimeAnagramUsingQueue {
