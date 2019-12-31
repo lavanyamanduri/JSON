@@ -3,9 +3,9 @@ package com.bridgelabz.Algorithms;
  *  Purpose: Program is written for Anagram And Palindrome .
  *  		 
  *
- *  @author  Manduri Lavanya<>
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
  *  @version 1.0
- *  @since   18-12-2020
+ *  @since   18-12-2019
  *
  ******************************************************************************/
 import com.bridgelabz.Utility.Utility;
