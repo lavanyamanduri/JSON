@@ -1,11 +1,11 @@
 package com.bridgelabz.DataStructuresPrograms;
 /******************************************************************************
- *  Purpose: Program is written for BalancedBinaryTree .
+ *  Purpose: Program is written for Balanced Binary Tree .
  *  		 
  *
- *  @author  Manduri Lavanya<>
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
  *  @version 1.0
- *  @since   18-12-2020
+ *  @since   18-12-2019
  *
  ******************************************************************************/
 import java.util.Stack;
