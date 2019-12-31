@@ -1,13 +1,23 @@
 package com.bridgelabz.DataStructure;
+/******************************************************************************
+ *  Purpose: Program is written for Queue Implemented Using LinkedList ( Reusability of Code ) .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   23-12-2019
+ *
+ ******************************************************************************/
 import com.bridgelabz.DataStructure.LinkedList;
 import java.util.List;
+import com.bridgelabz.Utility.*;
 import java.util.Scanner;
 
 public class QueueImplementedUsingLinkedList<T> {
 		LinkedList<T> queue = new LinkedList<T>();
 		int index = 0;
 		public int bankBalance = 500000;
-		Scanner scanner = new Scanner(System.in);
+		
 		int counter = 1;
 
 		/**
@@ -95,19 +105,19 @@ public class QueueImplementedUsingLinkedList<T> {
 			int choice;
 			int amount = 0;
 			System.out.println("press 1: for withdraw\npress 2: for deposit");
-			choice = scanner.nextInt();
+			choice = Utility.readInt();
 
 			switch (choice) {
 			case 1:
 				System.out.println("Enter amount to withdraw");
-				amount = scanner.nextInt();
+				amount = Utility.readInt();
 				bankBalance = bankBalance - amount;
 				System.out.println("Thank you for using service");
 				amount = 0;
 				break;
 			case 2:
 				System.out.println("Enter amount to deposit");
-				amount = scanner.nextInt();
+				amount = Utility.readInt();
 				bankBalance = bankBalance + amount;
 				System.out.println("Thank you for using service");
 				amount = 0;

@@ -1,6 +1,14 @@
 package com.bridgelabz.DataStructure;
-
-import java.util.Scanner;
+/******************************************************************************
+ *  Purpose: Program is written for Node Creation ( Reusability of Code ) .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   21-12-2019
+ *
+ ******************************************************************************/
+import com.bridgelabz.Utility;
 
 public class Queue <T>{
 	Object[] queue = new Object[10];
@@ -8,7 +16,7 @@ public class Queue <T>{
 	int rear;
 	int size;
 	public int bankBalance = 500000;
-	Scanner scanner = new Scanner(System.in);
+	
 	int counter=1;
 
 	/**
