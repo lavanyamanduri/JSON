@@ -16,7 +16,9 @@
 	import java.util.Arrays;
 	import java.util.Scanner;
 	public class Utility {
-		//calculates distance between two points in a x-y plane.
+		
+	//calculates distance between two points in a x-y plane.
+		
 		public static double distance(double x,double y)
 		{
 			double sum=Math.sqrt((x*x)-(y*y));
