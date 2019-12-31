@@ -1,5 +1,13 @@
 package com.bridgelabz.DataStructuresPrograms;
-
+/******************************************************************************
+ *  Purpose: Program is written for Unordered List .
+ *  		 
+ *
+ *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
+ *  @version 1.0
+ *  @since   21-12-2019
+ *
+ ******************************************************************************/
 import java.io.IOException;
 import java.util.Scanner;
 
