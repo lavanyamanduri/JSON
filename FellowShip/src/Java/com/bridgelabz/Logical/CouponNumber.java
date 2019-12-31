@@ -13,7 +13,7 @@ import com.bridgelabz.Utility.Utility;
 public class CouponNumber {
 	public static void main(String[] args) {
 
-		char[] chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789".toCharArray();
+	char [] chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789".toCharArray();
 Utility.coupon(chars);
 	}
 }
