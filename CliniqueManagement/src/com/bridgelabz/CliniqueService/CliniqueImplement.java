@@ -25,9 +25,9 @@ public class CliniqueImplement implements Clinique {
 		private static Scanner scanner = new Scanner(System.in);
 
 		// file paths
-		private String pathDoctorJson = "D:\\Java_Programs\\doctor.json";
-		private String pathPatientJson = "D:\\Java_Programs\\patient.json";
-		private String pathAppointmentJson = "D:\\Java_Programs\\appointment.json";
+		private String pathDoctorJson = "D:\\git push\\MLavanya\\doctor.json";
+		private String pathPatientJson = "D:\\git push\\MLavanya\\patient.json";
+		private String pathAppointmentJson = "D:\\git push\\MLavanya\\appointment.json";
 
 		// models
 		private DoctorModel modelDoctor = new DoctorModel();

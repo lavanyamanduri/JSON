@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.codehaus.jackson.map.ObjectMapper"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.AddressModel.Person"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.AddressRepository.JsonUtil"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.AddressModel.Address"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.AddressModel.AddressBookModel"/>
+    <fullyQualifiedTypeName name="com.bridgelabz.AddressService.AddressBookUtilImplement"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="org.codehaus.jackson.JsonParseException"/>
+    <fullyQualifiedTypeName name="org.codehaus.jackson.map.JsonMappingException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>
