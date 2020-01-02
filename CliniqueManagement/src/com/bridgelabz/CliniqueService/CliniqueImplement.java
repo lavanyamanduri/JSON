@@ -17,7 +17,7 @@ import com.bridgelabz.CliniqueModel.PatientModel;
 import com.bridgelabz.CliniqueRepository.JsonUtil;
 
 public class CliniqueImplement implements Clinique {
-	// instantiation
+	// Instantiation
 		private static int doctorid = 0;
 		private static int patientid = 1000;
 		private static int appointmentid = 10000;
