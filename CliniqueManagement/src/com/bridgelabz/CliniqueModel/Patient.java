@@ -1,5 +1,4 @@
 package com.bridgelabz.CliniqueModel;
-
 public class Patient {
 	private int ptid;
 	private String ptname;

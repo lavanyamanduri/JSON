@@ -1,6 +1,5 @@
 package com.bridgelabz.CliniqueModel;
 import java.util.List;
-
 public class AppoitmentModel {
 	private List<Appointment> appointments;
 

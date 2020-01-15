@@ -1,5 +1,4 @@
 package com.bridgelabz.CliniqueService;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;

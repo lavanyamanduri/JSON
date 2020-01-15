@@ -2,7 +2,6 @@ package com.bridgelabz.CliniqueModel;
 
 import java.util.Collection;
 import java.util.List;
-
 public class Appointment {
 	private int aptid;
 	private int drid;

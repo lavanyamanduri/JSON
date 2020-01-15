@@ -1,5 +1,4 @@
 package com.bridgelabz.CliniqueModel;
-
 public class Availability {
 	private int timein;
 	private int timeout;
