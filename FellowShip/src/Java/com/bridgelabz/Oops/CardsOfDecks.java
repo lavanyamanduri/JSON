@@ -1,5 +1,5 @@
 package com.bridgelabz.Oops;
-/******************************************************************************
+/*****************************************************************************
  *  Purpose: Program is written for shuffle and distribute card of deck
  *
  *  @author  Manduri Lavanya<lavanya.manduri@gmail.com>
