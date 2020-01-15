@@ -1,5 +1,8 @@
 package com.bridgelabz.Utility;
 
+/**************************************
+*Reusablity Code for Data Structures
+**************************************/
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
