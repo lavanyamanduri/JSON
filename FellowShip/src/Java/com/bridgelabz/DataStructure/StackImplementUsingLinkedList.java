@@ -1,5 +1,5 @@
 package com.bridgelabz.DataStructure;
-/*****************************************************************************
+/******************************************************************************
  *  Purpose: Program is written for Stack Implementation Using LinkedList  ( Reusability of Code ) .
  *  		 
  *
