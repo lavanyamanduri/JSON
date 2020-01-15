@@ -1,5 +1,4 @@
 package com.bridgelabz.JsonInventory;
-
 public class Inventory {
 	private String name;
 	private float weight;
