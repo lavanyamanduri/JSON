@@ -1,5 +1,4 @@
 package com.bridgelabz.AddressModel;
-
 public class AddressModel {
 	private String fname;
 	private String lname;

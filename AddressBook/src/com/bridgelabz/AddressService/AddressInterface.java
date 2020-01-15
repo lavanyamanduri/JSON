@@ -1,7 +1,6 @@
 package com.bridgelabz.AddressService;
 
 import java.io.IOException;
-
 import org.json.JSONException;
 import org.json.simple.parser.ParseException;
 
